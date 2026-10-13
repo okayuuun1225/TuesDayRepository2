@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\uedad\\desktop\\tuesdayrepository2\\20260929\\project1\\judge.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\uedad\\desktop\\tuesdayrepository2\\20260929\\project1\\player.h",
+            "c:\\users\\uedad\\desktop\\tuesdayrepository2\\20260929\\project1\\cpu.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

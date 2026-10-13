@@ -1,0 +1,16 @@
+#pragma once
+#include "Character.h"
+
+class BattleManager
+{
+private:
+	Character* player;
+	Character* enemy;
+	Character* boss;
+	Character* archer;
+	Character* wizard;
+public:
+	void StartBattle(Character* player, Character* enemy, Character* boss,Character*archer,Character*wizard);
+
+};
+
